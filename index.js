@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
       <div class="col-xs-12 col-md-6 col-xl-7 animate__animated animate__fadeIn">
         <span class="tagline">Welcome to my Portfolio</span>
           <h1>Hi! I'm Stella Valencia</h1>
-            <p>I am the founder of Vaenc, a London-based software development company. With a Master’s degree in Software Engineering and a specialization in backend development using PHP Symfony, I am passionate about turning business ideas into reality through innovative and tailored development solutions.</p>
+            <p>I am the founder of Valencia io, a London-based software development company. With a Master’s degree in Software Engineering and a specialization in backend development using PHP Symfony, I am passionate about turning business ideas into reality through innovative and tailored development solutions.</p>
             
             <button class="button"><a href="#footer" style="display: block;"><span>Get a Quote</a></span></button>
       </div>
