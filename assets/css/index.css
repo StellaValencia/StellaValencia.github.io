@@ -449,14 +449,12 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 
-@media (max-width: 990px) {
+@media (max-width: 490px) {
   .project {
   height: 1400px !important;
   
   
 }
-
-
 
 }
 
