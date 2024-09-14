@@ -451,14 +451,12 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 @media (max-width: 990px) {
   .project {
-  height: max-content !important;
+  height: 1400px !important;
   
   
 }
 
-.tab-content{
-  height: 760px !important;
-  }
+
 
 }
 
