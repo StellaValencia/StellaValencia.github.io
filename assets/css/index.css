@@ -449,9 +449,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 
-@media (max-width: 490px) {
+@media (max-width: 390px) {
   .project {
-  height: 1400px !important;
+  height: 1200px ;
   
   
 }
@@ -460,7 +460,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 
 .tab-content{
-  height: 760px !important;
+  height: 700px !important
 }
 
 .link-list {
