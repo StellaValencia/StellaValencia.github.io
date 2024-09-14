@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
 <nav class="navbar-brand">
   <div class="navbar-container">
     <span class="navbar-text">
-      <img href="" src="assets/img/logo.png" alt="Logo" style="width: 30%; width="40px"; height="40px"; class="d-inline-block align-top">
+      <img href="" src="assets/img/logo.png" alt="Logo" style="width: 20%; width="40px"; height="40px"; class="d-inline-block align-top">
      
     <div class="ms-auto social-icon">
       <a href="https://www.linkedin.com/https://www.linkedin.com/in/stella-valencia-3484ii34" target="blank"><img src="assets/img/linkedin.png" alt="LinkedIn"></a>
@@ -65,8 +65,10 @@ document.addEventListener('DOMContentLoaded', () => {
           <p>I have experience working on backend module projects developed with PHP Symfony. Additionally, I have worked on full-stack PHP Symfony projects, using technologies such as HTML5, CSS, MySQL, MariaDB, and JavaScript. Some of these projects involved integrating open APIs for applications like COVID-19 data tracking and currency exchange rates. You can find links to these projects, along with prototypes, on my GitHub repositories and project website. Currently, I am also developing hybrid web and mobile applications using Flutter. Feel free to stay updated on my latest projects by exploring my GitHub repositories.</p>
           
           <ul class="link-list">
+            <li><a href="https://www.valenciaio.com" target="_blank"><p>Valencia IO</p></a></li>            
             <li><a href="http://www.hap-tr.com" target="_blank"><p>HAP Teknoloji Haber Portali</p></a></li>
-            <li><a href="" target="_blank"><p>Covid-19 Track NHS </p></a></li>
+            <li><a href="https://www.covid-19-track/valenciaio.com" target="_blank"><p>Covid-19 Track</p></a></li>
+            <li><a href="https://www.currency-exchange/valenciaio.com" target="_blank"><p>Live Currency Exchange</p></a></li>
             <li><a href="https://github.com/" target="_blank"><p>London Attractions</p></a></li>
             <li><a href="https://github.com/" target="_blank"><p>Currency Exchange</p></a></li>
           </ul>
@@ -156,7 +158,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <div class="col">
           <div class="footer-social-icon ms-auto">
             <span>
-              <img href="" src="assets/img/logo.png" alt="Logo" style="width: 30%; width="30" height="30" ">
+              <img href="" src="assets/img/logo.png" alt="Logo" style="width: 20%; width="30" height="30" ">
             </span>
             <div class="image">
               <a href="mailto:stellavalenciaa@hotmail.com">
