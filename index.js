@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
 <nav class="navbar-brand">
   <div class="navbar-container">
     <span class="navbar-text">
-      <img href="" src="assets/img/logo.png" alt="Logo" style="width: 20%; width="40px"; height="40px"; class="d-inline-block align-top">
+      <img href="" src="assets/img/logo.png" alt="Logo" style="width: 30%; width="40px"; height="40px"; class="d-inline-block align-top">
      
     <div class="ms-auto social-icon">
       <a href="https://www.linkedin.com/https://www.linkedin.com/in/stella-valencia-3484ii34" target="blank"><img src="assets/img/linkedin.png" alt="LinkedIn"></a>
@@ -158,7 +158,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <div class="col">
           <div class="footer-social-icon ms-auto">
             <span>
-              <img href="" src="assets/img/logo.png" alt="Logo" style="width: 20%; width="30" height="30" ">
+              <img href="" src="assets/img/logo.png" alt="Logo" style="width: 30%; width="30" height="30" ">
             </span>
             <div class="image">
               <a href="mailto:stellavalenciaa@hotmail.com">
