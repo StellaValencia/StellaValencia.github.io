@@ -57,6 +57,37 @@ document.addEventListener('DOMContentLoaded', () => {
       </div>
 </section>
               
+
+<section class="skill" id="skills">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="skill-bx wow zoomIn">
+          <h2>Skills</h2>
+            <p>As a backend software engineer, I specialize in working with the PHP Symphony. I develop modern and user-friendly websites, as well as full-stack web applications, using Flutter, HTML5, CSS3, and JavaScript. I tailor these solutions to meet my clients' specific requirements and consult them on their technology needs. Additionally, I have a strong proficiency in SQL and database management.</p>
+          
+          <div id="skill-slider" class="owl-carousel owl-theme skill-slider">
+            <div class="item">
+              <h5>Software Engineering</h5>
+                <img src="assets/img/meter1.png" alt="Image" />  
+            </div>
+
+            <div class="item">
+              <h5>Web Development</h5>
+                <img src="assets/img/meter2.png" alt="Image" />
+            </div>
+
+            <div class="item">
+              <h5>Technology Consultant</h5>
+                <img src="assets/img/meter3.png" alt="Image" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> 
+</section>
+
 <section class="project" id="projects">
   <div class="container">
     <div class="row">
@@ -119,36 +150,6 @@ document.addEventListener('DOMContentLoaded', () => {
       </div>
     </div>
   </div>
-</section>
-
-<section class="skill" id="skills">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <div class="skill-bx wow zoomIn">
-          <h2>Skills</h2>
-            <p>As a backend software engineer, I specialize in working with the PHP Symphony. I develop modern and user-friendly websites, as well as full-stack web applications, using Flutter, HTML5, CSS3, and JavaScript. I tailor these solutions to meet my clients' specific requirements and consult them on their technology needs. Additionally, I have a strong proficiency in SQL and database management.</p>
-          
-          <div id="skill-slider" class="owl-carousel owl-theme skill-slider">
-            <div class="item">
-              <h5>Software Engineering</h5>
-                <img src="assets/img/meter1.png" alt="Image" />  
-            </div>
-
-            <div class="item">
-              <h5>Web Development</h5>
-                <img src="assets/img/meter2.png" alt="Image" />
-            </div>
-
-            <div class="item">
-              <h5>Technology Consultant</h5>
-                <img src="assets/img/meter3.png" alt="Image" />
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div> 
 </section>
 
 <section>
